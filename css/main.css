@@ -1,0 +1,71 @@
+li {
+    display:inline;
+    background-color:#009900;
+    margin:0px;
+    padding:10px;
+    color:white;
+}
+#nav {
+    background-color:#009900;
+    margin:40px;
+    padding:10px;
+    border-radius:10px;
+    width:1000px;
+    
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+img {
+    width:100px;
+    float:left;
+}
+ul{
+    font-family:arial
+}
+html {
+    background-color:black;
+    color:white;
+}
+#nav a:hover {
+    background-color:;   
+    color:white;
+    transition: background-color 2s;
+}
+#sale h2 {
+  background: red
+  background: -webkit-linear-gradient(red, green); 
+  background: -moz-linear-gradient(red, green);
+  background: linear-gradient(red, green); 
+  width:1000px;
+  padding:10px;
+  margin:40px;
+}
+p {
+    font-family:arial;
+    margin:40px;
+}
+
+#shirt img {
+    width:200px;
+    float:right;
+    clear:both;
+    margin:0px;
+}
+#shirt2 img {
+    width:200px;
+    float:right;
+    clear:both;
+}
+#store {
+   background-color:black;
+    width:1000px;
+    padding:10px;
+    margin:40px;
+    
+}
+#zoidberg {
+    float:right;
+    width:100px;
+}
